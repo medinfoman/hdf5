@@ -5,6 +5,7 @@
 * The image size of inside of the file will be fixed 64x64 (you can manipulate the size)
 * This code will display how to generate training set, test set of images for your model
 * You can load the images(converted size) from the hdf5 file (see hdf5_load.ipynb)
+* <B>Image file names must be "name_class".format (e.g cat_0.jpg)</B>
 
 ## hdf5_load_v0.01.ipynb
 * can load the file and see images it has
