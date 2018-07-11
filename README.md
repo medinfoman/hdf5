@@ -6,5 +6,5 @@
 * This code will display how to generate training set, test set of images for your model
 * You can load the images(converted size) from the hdf5 file (see hdf5_load.ipynb)
 
-## hdf5_load_v0.01
+## hdf5_load_v0.01.ipynb
 * can load the file and see images it has
