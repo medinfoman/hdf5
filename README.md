@@ -8,3 +8,12 @@
 
 ## hdf5_load_v0.01.ipynb
 * can load the file and see images it has
+
+## import info
+from PIL import Image
+from resizeimage import resizeimage 
+import numpy as np
+import os
+import matplotlib.pyplot as plt
+%matplotlib inline
+import h5py
